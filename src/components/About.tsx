@@ -33,7 +33,7 @@ const PhotoBox = styled(Box)(({ theme }) => ({
   },
 }));
 
-const ProfileImg = styled('img')(({ theme }) => ({
+const ProfileImg = styled('img')(({}) => ({
   width: '100%',
   maxWidth: 240,
   height: 'auto',
